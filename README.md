@@ -1,1 +1,1 @@
-KNN ML Algo
+ML Algorithms
